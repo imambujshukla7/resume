@@ -1,4 +1,4 @@
-# Ambuj's Professional Resume
+# Ambuj's Resume
 
 Welcome to my professional resume repository. This LaTeX template is designed to help you create an impressive and elegant one-page resume. Crafted with attention to detail, this template allows you to showcase your skills and experiences effectively.
 
